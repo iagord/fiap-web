@@ -3,4 +3,4 @@ Este repositório é uma compilação de projetos e entregas para as matérias d
 
 ## Explicações
 - Contém entregas feitas em dupla ou grupos.
-- Contém projetos mobile também utilizando React Native.
+- Contém projetos mobile também utilizando React Native e Kotlin.
